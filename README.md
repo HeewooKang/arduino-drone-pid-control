@@ -22,6 +22,16 @@ The main control logic consists of:
 
 ---
 
+## Demo Video
+
+### Arduino Drone PID Control
+
+[Watch Arduino drone PID demo](assets/arduino_drone_pid_demo.mp4)
+
+This demo shows the Arduino-based drone PID control test using an MPU6050 gyroscope sensor and PWM motor output.
+
+---
+
 ## Tech Stack
 
 * Arduino
