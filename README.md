@@ -178,19 +178,6 @@ s
 
 ---
 
-## Future Improvements
-
-* Add accelerometer-based angle correction
-* Add complementary filter
-* Add ESC calibration support
-* Add wireless control
-* Add safety cutoff logic
-* Add PID gain tuning interface
-* Add debug serial output
-* Improve attitude estimation accuracy
-
----
-
 ## Author
 
 Heewoo Kang
